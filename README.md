@@ -1,5 +1,6 @@
 # AES
 * Automated Essay Scoring System
+* Automated essay scoring (AES) is a computer-based assessment system that automatically scores or grades the student responses by considering appropriate features.
 * Partial was originally from https://github.com/dmmiller612/lecture-summarizer.git **
 
 # Features
