@@ -1,6 +1,6 @@
 # AES
-Automated Essay Scoring System
-** Partial was originally from https://github.com/dmmiller612/lecture-summarizer.git **
+* Automated Essay Scoring System
+* Partial was originally from https://github.com/dmmiller612/lecture-summarizer.git **
 
 # Features
  * generate summary on given text
